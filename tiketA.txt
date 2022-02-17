@@ -1,0 +1,24 @@
+Tiket 
+======================
+Judul Film : kedua 
+Waktu :  siang 
+Studio :  B 
+Kursi : a2
+Harga : Rp. 2222
+
+Tiket 
+======================
+Judul Film : kedua 
+Waktu :  siang 
+Studio :  B 
+Kursi : b3
+Harga : Rp. 2222
+
+Tiket 
+======================
+Judul Film : kedua 
+Waktu :  siang 
+Studio :  B 
+Kursi : c2
+Harga : Rp. 2222
+

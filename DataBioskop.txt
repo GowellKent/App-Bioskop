@@ -1,0 +1,5 @@
+kedua # siang # B # 2222
+ketiga # sore # B # 33333
+aaaaa # ffff # C # 6666
+aaaaa # ffff # B # 6666
+aaaaa # ffff # D # 6666
