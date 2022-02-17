@@ -1,0 +1,4 @@
+Spongebob Squarepants # Selasa,7April 2020  06.30 # A # 45000
+Interstellar # Rabu,8April 2020  12.45 # B # 45000
+The Dark Knight # Rabu,8April 2020  16.00 # C # 45000
+The Dark Knight Rises # Rabu,8April 2020  19.00 # C # 45000
